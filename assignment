@@ -1,0 +1,53 @@
+Q 1. Write a simple program in HTML that displays the heading “HTML defines the content and      
+structure of your website” on the web browser ?
+
+Ans :-  https://github.com/Varun-kumarrr/Getting_Started_with_HTML_Assignment/blob/main/heading.html
+
+Q 2.    Explain the purpose of comments in HTML and provide an example of how to use   
+comments in an HTML document ?
+
+Ans :-  We use comments for different purposes some are mentioned below:-
+We use comments so that when someone reads that code , he gets a better understanding of the code, basically comments are written for human beings to understand the code.
+Comments are used so that the comment line written in the code can’t be read by the compiler while running the code.
+Developers use comments  to explain the particular code block and functionality of that code.
+Comments can also be used in future modification or improvement of the code.
+Debuggers use comments to find the error from the particular code block or line by commenting that line or code block.
+Syntax : - <!-- comment –>
+
+program link :-  https://github.com/Varun-kumarrr/Getting_Started_with_HTML_Assignment/blob/main/comments.html
+
+Q 3.     Write an HTML program that includes a heading , a paragraph of text , a horizontal line ,   
+         and a line break. Arrange these elements to create a simple web page layout?
+
+Ans :-  https://github.com/Varun-kumarrr/Getting_Started_with_HTML_Assignment/blob/main/program.html
+
+Q 4 .     Write a short note on Tag and Element with an example ?
+
+Ans :-   HTML documents are made up of tags , tag is basically a system  by which the structure and design of HTML document is made or you can say the structure
+         and design of HTML document is dependent or made up of tags.
+          Tags are of two types
+            1. Opening tag 
+            2. Closing tag
+
+            Opening tags are made up of angular brackets “<>” and in between the name of the tag is written “<Name of tag>”
+            It starts with “<” then name of tag and then “>”.
+
+            Closing tag is same it only consists forward  slash before name “</name>
+            Example : - paragraph tag <p> </p>
+
+Tags are of two types 
+Paired tags = the tags which has opening tag and closing tag in it is called paired tag
+Example = head tag <h1> </h1>.
+
+Singular tag = the tag which has only an opening tag is known as singular tag.
+                        These tags don’t have closing tag because they don’t contain any content                in them
+	Example : - line break tag <br>
+
+
+Q 5. What is a doctype declaration in HTML?
+
+Ans :-  Doctype declaration is basically we telling the browser that which type of doc it is going to  get.
+
+
+   
+            
